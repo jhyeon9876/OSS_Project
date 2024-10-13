@@ -9,9 +9,13 @@
 
 ## 사용 방법
 1. Clone
+
     git clone ____
+
 2. Run
+
     ./start.sh
+
 
 ## 참고
 > 인용문입니다.
